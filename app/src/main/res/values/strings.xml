@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PIT_Lab4</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">New ride</string>
+    <string name="title_notifications">My rides</string>
+</resources>
